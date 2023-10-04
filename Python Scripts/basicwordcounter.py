@@ -1,0 +1,2 @@
+#Just a random one line counter from the starting days.
+print("Hello, I count words"); words = input("Enter words to be counted:" ); wordlen = words.split(); print('This contains', len(wordlen), 'words')
