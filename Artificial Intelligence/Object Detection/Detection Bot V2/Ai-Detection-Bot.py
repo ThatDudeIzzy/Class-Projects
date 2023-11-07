@@ -1,5 +1,12 @@
-#May need do !pip install ultralytics to make dis werky
-#Simple version for testing/finding out how to not be dumb. (Going poorly)
+# May need do !pip install ultralytics to make dis werky
+# Simple version for testing/finding out how to not be dumb. (Going poorly)
+# If cv2 breaks do !pip uninstall opencv-python-headless then full !pip install opencv-python (Guess who just saved you 2 hours of googling)
+
+# Currently 1AM and I'm tired so I'm going to bed......  
+# One of these days this print will trigger when class_id 0 and 39 are detected simultaneously.
+# When that happens the possbilities sky rocket. Until then... I'm just a caveman banging rocks together. Goodnight.
+
+
 from ultralytics import YOLO
 import time
 from pygame import mixer
